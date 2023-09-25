@@ -6,7 +6,7 @@ Download from [releases][URL_1]
 
 ---
 
-**Note**: If the icons don't show up for the Resource Monitor widgets, doenload the `Material Google.ttf` and `Material Google.json` files from the `src\Kustom\icons` folder of this repo and place them into Kustom's icon folder.
+**Note**: If the icons don't show up for the Resource Monitor widgets, download the `Material Google.ttf` and `Material Google.json` files from the `src\Kustom\icons` folder of this repo and place them into Kustom's icon folder.
 
 
 [URL_1]: https://github.com/TBR-Development/Kustom-Luxury/releases
