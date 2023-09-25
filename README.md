@@ -10,12 +10,9 @@ Download from [releases][URL_1]
 
 ## Previews
 
-![1][Mockup_1]
-![2][Mockup_2]
-![3][Mockup_3]
-![4][Mockup_4]
-![5][Mockup_5] 
-![6][Mockup_6]
+![1][Mockup_1] ![2][Mockup_2] ![3][Mockup_3]
+
+![4][Mockup_4] ![5][Mockup_5]  ![6][Mockup_6]
 
 
 [URL_1]: https://github.com/TBR-Development/Kustom-Luxury/releases
